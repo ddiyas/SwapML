@@ -1,0 +1,5 @@
+Hat
+Outwear
+Pants
+Shoes
+T-Shirt
